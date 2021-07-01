@@ -1,0 +1,23 @@
+.form
+{
+  text-align:left;
+  background-color:#34eb95;
+  padding:15px;
+  margin:20px;
+}
+
+
+
+.booking 
+{
+  text-align: center;
+  background-color: crimson;
+  padding:15px;
+  margin:15px;
+}
+.subscribe
+{
+  text-align:center;
+  background-color:red;
+  margin:20px;
+}
